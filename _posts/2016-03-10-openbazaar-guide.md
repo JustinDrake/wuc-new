@@ -107,7 +107,7 @@ If you don’t have bitcoins, buy from one of the exchanges below or [read our g
 
 ### Finding Items
 
-The easiest way to search for items or stores is to click the eye icon in the top right corner of the page. On hover, you should see “Discover”:
+There are two ways to search for items or stores. The easiest and fastest is to use a third-party search engine such as [Duo Search](https://duosear.ch). Alternatively, use the OpenBazaar client and click the eye icon in the top right corner of the page. On hover, you should see “Discover”:
 
 ![openbazaar][11]
 
